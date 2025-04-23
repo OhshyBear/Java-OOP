@@ -1,6 +1,6 @@
 **Java Projects – CS252 (Spring 2025)** <br>
-Author: Trevor Huddleston
-Course: CS252 – Data Structures and Algorithms
+Author: Trevor Huddleston <br>
+Course: CS252 – Data Structures and Algorithms<br>
 Date: April 2025
 
 This repository contains a collection of Java projects demonstrating various core programming concepts such as data manipulation, object-oriented design, sorting algorithms, file I/O, and GUI creation.
