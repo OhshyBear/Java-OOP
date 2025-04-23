@@ -5,7 +5,7 @@ Date: April 2025
 
 This repository contains a collection of Java projects demonstrating various core programming concepts such as data manipulation, object-oriented design, sorting algorithms, file I/O, and GUI creation.
 
-Projects Overview
+**Projects Overview**<br>
 **📁 Project 1:** Random Number Generation & IPv6 Address Validator
 FirstHomework.java: Generates random numbers using Random and ThreadLocalRandom classes, comparing methods.
 
