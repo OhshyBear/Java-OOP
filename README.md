@@ -1,4 +1,4 @@
-**#Java Projects – CS252 (Spring 2025)**
+**Java Projects – CS252 (Spring 2025)** <br>
 Author: Trevor Huddleston
 Course: CS252 – Data Structures and Algorithms
 Date: April 2025
